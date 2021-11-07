@@ -2,6 +2,7 @@
 title: "[C] 백준 10171번(고양이), 10172번(강아지)"
 author: Hoyon Kim
 date: 2021-11-06 19:00:00 +0000
+categories: [baekjoon]
 permalink: /baekjoon/10171/
 ---
 
